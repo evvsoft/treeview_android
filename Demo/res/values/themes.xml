@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <style name="Theme.TreeView.Dark" parent="android:Theme.Holo">
+        <item name="theme">dark</item>
+	</style>
+    <style name="Theme.TreeView.Light" parent="android:Theme.Holo.Light">
+        <item name="theme">light</item>
+    </style>
+    
+</resources>
